@@ -1,0 +1,24 @@
+<diagram program="umletino" version="14.2"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>200</x><y>100</y><w>370</w><h>190</h></coordinates><panel_attributes>&lt;&lt;interface&gt;&gt;
+InovacaoSvc
+--
+
+--
+consultarCategorias(): Categoria[]
+enviarIdeia(identificador,descricao,categoriaSelecionada):
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>200</x><y>100</y><w>370</w><h>190</h></coordinates><panel_attributes>&lt;&lt;interface&gt;&gt;
+InovacaoSvc
+--
+
+--
+consultarCategorias(): Categoria[]
+enviarIdeia(identificador,descricao,categoriaSelecionada):
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>200</x><y>380</y><w>370</w><h>190</h></coordinates><panel_attributes>&lt;&lt;Interface&gt;&gt;
+InovacaoDB
+
+
+--
+
+--
+ConsultarCategorias() Categoria()
+enviarIdeia(identificador,descricao,categoriaSelecionada):
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
